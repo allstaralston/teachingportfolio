@@ -291,7 +291,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"assets/files/Syllabus.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Syllabus</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"assets/files/Rubric.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Rubric</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"assets/files/Presenting%20In%20Virtual%20Spaces.pptx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Lesson</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"assets/files/Syllabus.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Syllabus</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"assets/files/Rubric.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Rubric</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"assets/files/Presenting In Virtual Spaces.pptx\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Lesson</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-7"
         },
